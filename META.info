@@ -1,0 +1,7 @@
+{
+	"name" : "Console::Presenter",
+	"version" : "*",
+	"description" : "Give Perl 6y presentations on the console",
+	"depends" : [ "Term::ANSIColor" ],
+	"source-url" : "git://github.com/mathw/perl6-console-presenter.git"
+}
