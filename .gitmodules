@@ -1,0 +1,3 @@
+[submodule "perl6-ncurses"]
+	path = perl6-ncurses
+	url = git@github.com:mathw/perl6-ncurses.git
